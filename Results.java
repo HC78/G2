@@ -26,11 +26,7 @@ public class Student {
     {
         return (RE+SDA+SQAT+SEAM+FM);
     }
-
-    void myTest(){
-
-    }
-
+    
     void testDisplay()
     {
         System.out.println("Testing...");
